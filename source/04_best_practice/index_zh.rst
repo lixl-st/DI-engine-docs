@@ -11,4 +11,3 @@
    registry_zh
    rnn_zh
    training_generated_folders_zh
-   buffer_zh
